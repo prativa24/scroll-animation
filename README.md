@@ -1,40 +1,100 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚗 Car Scroll Animation
 
-## Getting Started
+A modern **scroll-based car animation website** built with **Next.js and Tailwind CSS**.
+As the user scrolls, a car moves across the screen while text and statistics appear with smooth animations.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## 🌐 Live Demo
+
+View the live project here:
+
+https://car-scroll-animation-ebon-alpha.vercel.app
+
+---
+
+## ✨ Features
+
+* 🚗 Smooth **scroll-driven car animation**
+* 🎨 Modern **UI with gradient strip design**
+* 📊 Animated **stats cards appearing sequentially**
+* ⚡ Built with **Next.js for performance**
+* 🎯 Responsive layout for different screen sizes
+* 🌈 Clean and colorful stat sections
+
+---
+
+## 🛠️ Tech Stack
+
+* **Next.js**
+* **React**
+* **Tailwind CSS**
+* **JavaScript**
+* **Vercel (Hosting)**
+
+---
+
+## 📂 Project Structure
+
+```
+car-scroll-animation
+│
+├── app
+│   ├── page.tsx
+│   ├── layout.tsx
+│   └── globals.css
+│
+├── public
+│   └── images
+│
+├── package.json
+└── README.md
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## ⚙️ Installation
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Clone the repository and run locally:
 
-## Learn More
+```bash
+git clone https://github.com/Mayanktiwarixd/car-scroll-animation.git
+cd car-scroll-animation
+npm install
+npm run dev
+```
 
-To learn more about Next.js, take a look at the following resources:
+Then open:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```
+http://localhost:3000
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🚀 Deployment
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This project is deployed using **Vercel**.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-# car-scroll-animation
->>>>>>> 62ad2a48ffce9f4f6a070080a6550b3877621fb6
+Steps:
+
+1. Push code to GitHub
+2. Connect repository with Vercel
+3. Click **Deploy**
+
+Vercel automatically builds and hosts the project.
+
+---
+
+## 👨‍💻 Author
+
+Created for development and UI animation practice.
+
+GitHub:
+https://github.com/Mayanktiwarixd
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a **star ⭐ on GitHub**.
