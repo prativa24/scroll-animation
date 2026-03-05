@@ -111,8 +111,8 @@ export default function Hero() {
         bg-linear-to-r from-amber-600 via-yellow-400 to-yellow-200"
         style={{ width: 0 }}
       >
-        <h1 className="text-black text-9xl tracking-[0.20em] ml-10 whitespace-nowrap font-black font-[Times New Roman,serif]">
-  WELCOMEITZFIZZ
+        <h1 className="text-black text-7xl md:text-8xl font-extrabold tracking-[0.25em] ml-24 whitespace-nowrap font-serif">
+  HELLO EVERYONE!!!
 </h1>
       </div>
 
