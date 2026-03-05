@@ -1,41 +1,42 @@
-# 🚗 Car Scroll Animation
+# 🚗 Scroll Animation Project
 
-A modern **scroll-based animation website** built using **Next.js and Tailwind CSS**.
-As the user scrolls, a car smoothly moves across the screen while animated text and statistics appear.
+A modern **scroll-based animation website** built with **Next.js and Tailwind CSS**.
+
+As the user scrolls the page, a car smoothly moves across the screen while animated text and colorful statistic cards appear with smooth transitions.
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Live Website
 
-🔗 https://car-scroll-animation-tau.vercel.app
+🔗 https://scroll-animation-pink-ten.vercel.app
 
 ---
 
 ## ✨ Features
 
-* 🚗 Smooth **scroll car animation**
-* 🎨 Gradient animated **welcome strip**
-* 📊 Animated **statistics cards**
-* ⚡ Fast performance with **Next.js**
+* 🚗 Smooth **car scroll animation**
+* 🎨 Animated **gradient welcome strip**
+* 📊 **Colorful statistics cards**
+* ⚡ Built with **Next.js for performance**
 * 📱 **Responsive design**
-* 🧩 Clean component structure
+* 🧩 Clean component-based structure
 
 ---
 
 ## 🛠 Tech Stack
 
-* **Next.js**
-* **React**
-* **Tailwind CSS**
-* **TypeScript**
-* **Vercel (Deployment)**
+* Next.js
+* React
+* Tailwind CSS
+* TypeScript
+* Vercel (Deployment)
 
 ---
 
 ## 📂 Project Structure
 
 ```
-car-scroll-animation
+scroll-animation
 │
 ├── app
 │   ├── layout.tsx
@@ -54,18 +55,18 @@ car-scroll-animation
 
 ---
 
-## ⚙️ Installation
+## ⚙️ Run Locally
 
 Clone the repository:
 
 ```
-git clone https://github.com/prativa24/car-scroll-animation.git
+git clone https://github.com/prativa24/scroll-animation.git
 ```
 
-Go to project folder:
+Go to the project folder:
 
 ```
-cd car-scroll-animation
+cd scroll-animation
 ```
 
 Install dependencies:
@@ -74,7 +75,7 @@ Install dependencies:
 npm install
 ```
 
-Run the development server:
+Start development server:
 
 ```
 npm run dev
@@ -90,9 +91,9 @@ http://localhost:3000
 
 ## 🚀 Deployment
 
-This project is deployed using **Vercel**.
+This project is deployed on **Vercel**.
 
-Steps:
+Steps to deploy:
 
 1. Push project to GitHub
 2. Import repository in Vercel
@@ -102,9 +103,9 @@ Steps:
 
 ## 👩‍💻 Author
 
-**Prativa**
+**Prativa Sahoo**
 
-GitHub
+GitHub:
 https://github.com/prativa24
 
 ---
